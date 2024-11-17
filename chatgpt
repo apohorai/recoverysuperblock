@@ -36,6 +36,44 @@ Filesystems usually have backup superblocks. If the primary superblock is corrup
 
 bash
 Copy code
+
+(base) [apohorai@pohaserver ~]$ sudo ddrescue -f -n /dev/sdc1 /hdd/backuphdc1.img /hdd/backuphdc1.log
+GNU ddrescue 1.28
+Press Ctrl-C to interrupt
+     ipos:   22383 MB, non-trimmed:    1249 kB,  current rate:   9781 kB/s
+     opos:   22383 MB, non-scraped:        0 B,  average rate:  35857 kB/s
+non-tried:  477802 MB,  bad-sector:        0 B,    error rate:       0 B/s
+  rescued:   22195 MB,   bad areas:        0,        run time:     10m 19s
+pct rescued:    4.43%, read errors:       31,  remaining time:      2h 36m  
+ChatGPT said:
+ChatGPT
+It looks like ddrescue is working and making progress, albeit slowly, with some read errors along the way. Here’s what the output tells us and what you might consider next:
+
+Progress: ddrescue has rescued about 22 GB of data so far (4.43% of the total). It’s encountering a few read errors (31 so far), which suggests that some parts of the disk are damaged, but it’s effectively working around those errors.
+
+Non-trimmed and Non-tried Areas: ddrescue still has a significant portion of the drive left to attempt (non-tried: 477802 MB). It should continue trying to recover as much as possible, but the process may take several hours.
+
+Bad Areas and Read Errors: The absence of bad areas so far and a manageable read error count indicate that many of the issues may be localized. ddrescue will skip over these as it encounters them and continue rescuing the accessible data.
+
+Next Steps:
+
+Let ddrescue Run: Since ddrescue is still in its first pass, allow it to continue. The initial run is focused on recovering as much data as possible, while later passes can attempt to re-read bad sectors if necessary.
+
+Consider Running ddrescue in Scraping Mode: Once the initial pass is complete, you could use scraping mode to recover data from difficult-to-read areas. To do this, run:
+
+bash
+Copy code
+sudo ddrescue -d -r3 /dev/sdc1 /hdd/backuphdc1.img /hdd/backuphdc1.log
+Here, -r3 attempts to re-read bad areas up to three times. Adjust this number if needed, but be aware that higher retry counts may stress the drive.
+
+Monitor for Errors: Keep an eye on the read error count and bad sectors. If the errors increase significantly, this may indicate worsening disk health, in which case you should consider stopping the recovery to avoid further damage.
+
+Verify and Repair Recovered Data: Once ddrescue completes, you can check the recovered image for filesystem integrity with fsck (if it’s an ext filesystem) or use recovery software to browse the image for specific files if needed.
+
+Let it run and see if it manages to recover a substantial portion of your data. Let me know if any new issues arise or if you'd like advice on handling the recovered image.
+
+
+
 sudo dumpe2fs /dev/sdc1 | grep -i superblock
 This command will list the locations of the backup superblocks.
 
