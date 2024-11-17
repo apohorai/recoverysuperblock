@@ -2031,3 +2031,55 @@ tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-vconsole-setup.se
 /dev/sda1       3.6T  1.1T  2.4T  30% /hdd
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-tmpfiles-setup.service
 tmpfs           4.8G   68K  4.8G   1% /run/user/1000
+
+
+
+(base) [apohorai@pohaserver ~]$ sudo ddrescue -f -n /dev/sdc1 /hdd/backuphdc1.img /hdd/backuphdc1.log
+[sudo] password for apohorai: 
+GNU ddrescue 1.28
+Press Ctrl-C to interrupt
+Initial status (read from mapfile)
+rescued: 22195 MB, tried: 1249 kB, bad-sector: 0 B, bad areas: 0
+
+Current status
+     ipos:   28039 MB, non-trimmed:    1773 kB,  current rate:  58523 kB/s
+     ipos:  499999 MB, non-trimmed:   19517 kB,  current rate:  62652 kB/s
+     opos:  499999 MB, non-scraped:        0 B,  average rate:  47295 kB/s
+non-tried:    2881 MB,  bad-sector:        0 B,    error rate:       0 B/s
+  rescued:  497098 MB,   bad areas:        0,        run time:  2h 47m 21s
+pct rescued:   99.41%, read errors:      475,  remaining time:         49s
+                              time since last successful read:          0s
+Copying non-tried blocks... Pass 1 (forwards) 
+     ipos:    1243 MB, non-trimmed:   40734 kB,  current rate:   3342 kB/s
+     opos:    1243 MB, non-scraped:        0 B,  average rate:  45480 kB/s
+non-tried:    1217 MB,  bad-sector:        0 B,    error rate:   65536 B/s
+  rescued:  498741 MB,   bad areas:        0,        run time:  2h 54m 38s
+pct rescued:   99.74%, read errors:      919,  remaining time:          6m
+                              time since last successful read:          0s
+Copying non-tried blocks... Pass 2 (backwards)
+     ipos:    1242 MB, non-trimmed:   52936 kB,  current rate:    4096 B/s
+     opos:    1242 MB, non-scraped:        0 B,  average rate:  44549 kB/s
+non-tried:    1160 MB,  bad-sector:        0 B,    error rate:   61440 B/s
+  rescued:  498785 MB,   bad areas:        0,        run time:  2h 58m 18s
+pct rescued:   99.75%, read errors:     1203,  remaining time:      1h 18m
+                              time since last successful read:          0s
+Copying non-tried blocks... Pass 4 (backwards)
+     ipos:  496656 MB, non-trimmed:  405819 kB,  current rate:    143 kB/s
+     opos:  496656 MB, non-scraped:        0 B,  average rate:  30871 kB/s
+non-tried:        0 B,  bad-sector:        0 B,    error rate:   53248 B/s
+  rescued:  499594 MB,   bad areas:        0,        run time:  4h 17m 44s
+pct rescued:   99.91%, read errors:     8137,  remaining time:         34m
+                              time since last successful read:          0s
+Copying non-tried blocks... Pass 5 (forwards)z
+     ipos:  496656 MB, non-trimmed:        0 B,  current rate:   45056 B/s
+     opos:  496656 MB, non-scraped:  283613 kB,  average rate:  25958 kB/s
+non-tried:        0 B,  bad-sector:    5929 kB,    error rate:    1024 B/s
+  rescued:  499710 MB,   bad areas:    11581,        run time:  5h  6m 34s
+pct rescued:   99.94%, read errors:    19718,  remaining time:      1h 12m
+                              time since last successful read:         n/a
+Trimming failed blocks... (forwards)         
+Finished                           
+(base) [apohorai@pohaserver ~]$ ls /hdd/*.img
+/hdd/backuphdc1.img
+(base) [apohorai@pohaserver ~]$ ls -la /hdd/*.img
+-rw-r--r-- 1 root root 499999834112 Nov 18 08:18 /hdd/backuphdc1.img
