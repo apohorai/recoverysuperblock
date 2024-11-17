@@ -1,0 +1,2010 @@
+52	./.local/share/pipx/venvs/llama-stack
+52	./.local/share/pipx/venvs/torch/bin
+412	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/fsspec/__pycache__
+420	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/fsspec/implementations/__pycache__
+728	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/fsspec/implementations
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/fsspec/tests/abstract/__pycache__
+196	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/fsspec/tests/abstract
+200	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/fsspec/tests
+1676	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/fsspec
+168	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/__pycache__
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package-zip
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package_zipped-egg
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package-source/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests/data/my-test-package-source
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests/data
+248	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources/tests
+560	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/pkg_resources
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/ops/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/ops/blocksparse/__pycache__
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/ops/blocksparse
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/ops
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/tools/__pycache__
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/tools
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/profiler/__pycache__
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/profiler
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/runtime/__pycache__
+324	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/runtime
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/language/extra/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/language/extra/hip/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/language/extra/hip
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/language/extra/cuda/__pycache__
+176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/language/extra/cuda
+308	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/language/extra
+276	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/language/__pycache__
+788	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/language
+476652	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/_C
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia/__pycache__
+79752	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia/bin
+468	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia/lib
+996	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia/include/crt
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia/include/Openacc
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia/include/cooperative_groups/details
+200	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia/include/cooperative_groups
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia/include/Openmp
+6004	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia/include
+86332	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/nvidia
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/amd/__pycache__
+452	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/amd/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/amd/include/roctracer/ext
+444	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/amd/include/roctracer
+1348	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/amd/include/hip/amd_detail
+1872	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/amd/include/hip
+548	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/amd/include/hsa
+2868	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/amd/include
+3412	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends/amd
+89780	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/backends
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/compiler/__pycache__
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton/compiler
+568244	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_cuda_nvrtc_cu12-12.1.105.dist-info
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_runtime/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_runtime/lib/__pycache__
+676	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_runtime/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_runtime/include/__pycache__
+176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_runtime/include/cooperative_groups/details
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_runtime/include/cooperative_groups
+3520	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_runtime/include
+4208	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_runtime
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvtx/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvtx/lib/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvtx/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvtx/include/__pycache__
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvtx/include/nvtx3/nvtxDetail
+264	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvtx/include/nvtx3
+376	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvtx/include
+440	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvtx
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/curand/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/curand/lib/__pycache__
+94428	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/curand/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/curand/include/__pycache__
+2092	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/curand/include
+96532	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/curand
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusparse/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusparse/lib/__pycache__
+258688	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusparse/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusparse/include/__pycache__
+300	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusparse/include
+259000	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusparse
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cufft/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cufft/lib/__pycache__
+189796	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cufft/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cufft/include/__pycache__
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cufft/include
+189876	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cufft
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nccl/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nccl/lib/__pycache__
+227252	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nccl/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nccl/include/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nccl/include
+227324	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nccl
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvjitlink/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvjitlink/lib/__pycache__
+49252	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvjitlink/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvjitlink/include/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvjitlink/include
+49296	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/nvjitlink
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cudnn/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cudnn/lib/__pycache__
+999024	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cudnn/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cudnn/include/__pycache__
+380	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cudnn/include
+999416	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cudnn
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusolver/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusolver/lib/__pycache__
+189712	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusolver/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusolver/include/__pycache__
+268	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusolver/include
+189992	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cusolver
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_nvrtc/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_nvrtc/lib/__pycache__
+62240	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_nvrtc/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_nvrtc/include/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_nvrtc/include
+62300	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_nvrtc
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cublas/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cublas/lib/__pycache__
+608712	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cublas/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cublas/include/__pycache__
+572	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cublas/include
+609296	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cublas
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_cupti/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_cupti/lib/__pycache__
+43380	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_cupti/lib
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_cupti/include/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_cupti/include/Openacc
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_cupti/include/Openmp
+1036	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_cupti/include
+44428	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia/cuda_cupti
+2732120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_cusparse_cu12-12.1.0.106.dist-info
+700	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/jinja2/__pycache__
+1232	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/jinja2
+156	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/einops/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/einops
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/dim/__pycache__
+156	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/dim
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/experimental/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/experimental
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src/vmap/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src/vmap
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src/make_functional/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src/make_functional
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src/aot_autograd/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src/aot_autograd
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src/eager_transforms/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src/eager_transforms
+76	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/_src
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/compile/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch/compile
+496	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/functorch
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_curand_cu12-10.3.2.106.dist-info
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx-3.3.dist-info
+408	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/command/__pycache__
+748	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/command
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/compat/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/compat
+112	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/config/__pycache__
+272	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/config/_validate_pyproject/__pycache__
+664	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/config/_validate_pyproject
+888	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/config
+428	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/packaging-24.1.dist-info
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources-6.4.0.dist-info
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/more_itertools-10.3.0.dist-info
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/platformdirs-4.2.2.dist-info/licenses
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/platformdirs-4.2.2.dist-info
+144	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco.text-3.12.1.dist-info
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/backports/tarfile/compat/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/backports/tarfile/compat
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/backports/tarfile/__pycache__
+264	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/backports/tarfile
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/backports/__pycache__
+280	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/backports
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/backports.tarfile-1.2.0.dist-info
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat
+88	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/__pycache__
+188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/tomli/__pycache__
+88	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/tomli
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/typing_extensions-4.12.2.dist-info
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/autocommand/__pycache__
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/autocommand
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco.functools-4.0.1.dist-info
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/inflect/compat/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/inflect/compat
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/inflect/__pycache__
+244	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/inflect
+204	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/packaging/__pycache__
+388	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/packaging
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/zipp-3.19.2.dist-info
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/wheel/cli/__pycache__
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/wheel/cli
+88	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/wheel/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/wheel/vendored/__pycache__
+176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/wheel/vendored/packaging/__pycache__
+324	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/wheel/vendored/packaging
+340	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/wheel/vendored
+588	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/wheel
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco.collections-5.1.0.dist-info
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/more_itertools/__pycache__
+436	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/more_itertools
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/platformdirs/__pycache__
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/platformdirs
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/typeguard-4.3.0.dist-info
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/zipp/compat/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/zipp/compat
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/zipp/__pycache__
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/zipp
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/future/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/future
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/compat/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/compat
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/namespacedata01/subdirectory
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/namespacedata01
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/compat/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/compat
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data02/two/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data02/two
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data02/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data02/subdirectory/subsubdir
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data02/subdirectory
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data02/one/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data02/one
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data02
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data01/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data01/subdirectory/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data01/subdirectory
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/data01
+352	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests
+528	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/inflect-7.3.1.dist-info
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/tomli-2.0.1.dist-info
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco.context-5.3.0.dist-info
+168	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/typeguard/__pycache__
+320	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/typeguard
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/autocommand-2.2.2.dist-info
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco/text/__pycache__
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco/text
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco/functools/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco/functools
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco/collections/__pycache__
+76	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco/collections
+264	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor/jaraco
+4564	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_vendor
+236	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils/command/__pycache__
+472	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils/command
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils/compat/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils/compat
+396	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils/tests/compat/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils/tests/compat
+396	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils/tests/__pycache__
+696	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils/tests
+1976	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/_distutils
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/compat/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/compat
+112	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/config/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/config/downloads/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/config/downloads
+228	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/config
+700	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/indexes/test_links_priority/simple/foobar
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/indexes/test_links_priority/simple
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/indexes/test_links_priority
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/indexes
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/integration/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests/integration
+1552	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools/tests
+10648	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_cudnn_cu12-9.1.0.70.dist-info
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_nvtx_cu12-12.1.105.dist-info
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_cublas_cu12-12.1.3.1.dist-info
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/triton-3.0.0.dist-info
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_cusolver_cu12-11.4.5.107.dist-info
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_nccl_cu12-2.20.5.dist-info
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/setuptools-75.1.0.dist-info
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/typing_extensions-4.12.2.dist-info
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_cufft_cu12-11.0.2.54.dist-info
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/_distutils_hack/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/_distutils_hack
+600	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/__pycache__
+204	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/matrices/__pycache__
+376	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/matrices
+524	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/functions/__pycache__
+892	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/functions
+292	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/calculus/__pycache__
+544	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/calculus
+332	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/libmp/__pycache__
+616	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/libmp
+812	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/tests/__pycache__
+1312	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath/tests
+4848	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/liealgebras/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/liealgebras/tests/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/liealgebras/tests
+316	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/liealgebras
+188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/concrete/__pycache__
+300	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/concrete/tests/__pycache__
+420	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/concrete/tests
+768	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/concrete
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/crypto/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/crypto/tests/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/crypto/tests
+276	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/crypto
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/benchmarks/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/benchmarks
+228	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/vector/__pycache__
+228	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/vector/tests/__pycache__
+320	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/vector/tests
+724	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/vector
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/unify/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/unify/tests/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/unify/tests
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/unify
+828	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/combinatorics/__pycache__
+336	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/combinatorics/tests/__pycache__
+560	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/combinatorics/tests
+2100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/combinatorics
+352	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/ntheory/__pycache__
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/ntheory/tests/__pycache__
+312	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/ntheory/tests
+976	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/ntheory
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/algebras/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/algebras/tests/__pycache__
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/algebras/tests
+196	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/algebras
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/discrete/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/discrete/tests/__pycache__
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/discrete/tests
+200	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/discrete
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices/benchmarks/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices/benchmarks
+748	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices/__pycache__
+324	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices/expressions/__pycache__
+360	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices/expressions/tests/__pycache__
+544	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices/expressions/tests
+1088	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices/expressions
+880	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices/tests/__pycache__
+1408	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices/tests
+3872	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/matrices
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/strategies/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/strategies/branch/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/strategies/branch/tests/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/strategies/branch/tests
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/strategies/branch
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/strategies/tests/__pycache__
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/strategies/tests
+232	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/strategies
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/special/benchmarks/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/special/benchmarks
+576	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/special/__pycache__
+488	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/special/tests/__pycache__
+696	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/special/tests
+1708	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/special
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/combinatorial/__pycache__
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/combinatorial/tests/__pycache__
+244	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/combinatorial/tests
+576	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/combinatorial
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/elementary/benchmarks/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/elementary/benchmarks
+564	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/elementary/__pycache__
+796	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/elementary/tests/__pycache__
+1124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/elementary/tests
+2104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions/elementary
+4412	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/functions
+148	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/agca/__pycache__
+88	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/agca/tests/__pycache__
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/agca/tests
+380	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/agca
+1412	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/benchmarks/__pycache__
+1864	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/benchmarks
+2376	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/__pycache__
+392	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/matrices/__pycache__
+392	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/matrices/tests/__pycache__
+588	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/matrices/tests
+1312	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/matrices
+404	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/numberfields/__pycache__
+200	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/numberfields/tests/__pycache__
+304	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/numberfields/tests
+980	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/numberfields
+380	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/domains/__pycache__
+152	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/domains/tests/__pycache__
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/domains/tests
+864	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/domains
+1600	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/tests/__pycache__
+2316	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys/tests
+11568	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/polys
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/integrals/benchmarks/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/integrals/benchmarks
+844	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/integrals/__pycache__
+860	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/integrals/tests/__pycache__
+1256	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/integrals/tests
+2776	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/integrals
+156	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/holonomic/__pycache__
+88	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/holonomic/tests/__pycache__
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/holonomic/tests
+408	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/holonomic
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/categories/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/categories/tests/__pycache__
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/categories/tests
+360	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/categories
+564	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/simplify/__pycache__
+512	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/simplify/tests/__pycache__
+744	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/simplify/tests
+1768	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/simplify
+244	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/intervalmath/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/intervalmath/tests/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/intervalmath/tests
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/intervalmath
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/pygletplot/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/pygletplot/tests/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/pygletplot/tests
+360	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/pygletplot
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/backends/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/backends/textbackend/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/backends/textbackend
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/backends/matplotlibbackend/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/backends/matplotlibbackend
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/backends
+240	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/tests/__pycache__
+432	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting/tests
+1556	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/plotting
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/series/benchmarks/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/series/benchmarks
+296	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/series/__pycache__
+536	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/series/tests/__pycache__
+744	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/series/tests
+1288	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/series
+232	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/control/__pycache__
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/control/tests/__pycache__
+316	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/control/tests
+744	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/control
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/optics/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/optics/tests/__pycache__
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/optics/tests
+312	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/optics
+208	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/vector/__pycache__
+264	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/vector/tests/__pycache__
+384	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/vector/tests
+780	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/vector
+208	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/__pycache__
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/units/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/units/systems/__pycache__
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/units/systems
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/units/definitions/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/units/definitions
+112	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/units/tests/__pycache__
+172	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/units/tests
+512	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/units
+176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/biomechanics/__pycache__
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/biomechanics/tests/__pycache__
+328	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/biomechanics/tests
+668	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/biomechanics
+716	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/quantum/__pycache__
+1232	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/quantum/tests/__pycache__
+1840	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/quantum/tests
+3124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/quantum
+260	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/continuum_mechanics/__pycache__
+76	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/continuum_mechanics/tests/__pycache__
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/continuum_mechanics/tests
+604	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/continuum_mechanics
+500	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/mechanics/__pycache__
+588	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/mechanics/tests/__pycache__
+952	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/mechanics/tests
+1896	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/mechanics
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/hep/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/hep/tests/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/hep/tests
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/hep
+152	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/tests/__pycache__
+244	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics/tests
+9384	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/physics
+156	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/logic/__pycache__
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/logic/algorithms/__pycache__
+188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/logic/algorithms
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/logic/utilities/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/logic/utilities
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/logic/tests/__pycache__
+284	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/logic/tests
+784	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/logic
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/core/benchmarks/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/core/benchmarks
+1324	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/core/__pycache__
+1788	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/core/tests/__pycache__
+2696	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/core/tests
+5256	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/core
+88	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sets/handlers/__pycache__
+156	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sets/handlers
+232	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sets/__pycache__
+364	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sets/tests/__pycache__
+532	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sets/tests
+1084	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sets
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sandbox/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sandbox/tests/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sandbox/tests
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/sandbox
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/calculus/__pycache__
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/calculus/tests/__pycache__
+188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/calculus/tests
+416	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/calculus
+468	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/__pycache__
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/_compilation/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/_compilation/tests/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/_compilation/tests
+156	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/_compilation
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/mathml/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/mathml/data/__pycache__
+372	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/mathml/data
+392	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/mathml
+632	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/tests/__pycache__
+1032	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities/tests
+2460	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/utilities
+1080	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/printing/__pycache__
+220	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/printing/pretty/__pycache__
+248	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/printing/pretty/tests/__pycache__
+436	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/printing/pretty/tests
+812	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/printing/pretty
+1176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/printing/tests/__pycache__
+1880	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/printing/tests
+4516	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/printing
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/external/__pycache__
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/external/tests/__pycache__
+180	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/external/tests
+304	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/external
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions/predicates/__pycache__
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions/predicates
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions/relation/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions/relation
+140	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions/handlers/__pycache__
+228	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions/handlers
+220	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions/__pycache__
+428	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions/tests/__pycache__
+596	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions/tests
+1368	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/assumptions
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/interactive/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/interactive/tests/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/interactive/tests
+152	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/interactive
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/multipledispatch/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/multipledispatch/tests/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/multipledispatch/tests
+144	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/multipledispatch
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/benchmarks/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/benchmarks
+524	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/__pycache__
+152	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/diophantine/__pycache__
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/diophantine/tests/__pycache__
+148	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/diophantine/tests
+428	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/diophantine
+564	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/ode/__pycache__
+776	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/ode/tests/__pycache__
+1112	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/ode/tests
+2128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/ode
+804	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/tests/__pycache__
+1156	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers/tests
+4740	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/solvers
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/diffgeom/__pycache__
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/diffgeom/tests/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/diffgeom/tests
+304	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/diffgeom
+228	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/codegen/__pycache__
+172	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/codegen/tests/__pycache__
+280	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/codegen/tests
+672	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/codegen
+752	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/stats/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/stats/sampling/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/stats/sampling/tests/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/stats/sampling/tests
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/stats/sampling
+460	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/stats/tests/__pycache__
+684	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/stats/tests
+2092	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/stats
+292	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/__pycache__
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/array/__pycache__
+244	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/array/expressions/__pycache__
+160	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/array/expressions/tests/__pycache__
+264	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/array/expressions/tests
+688	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/array/expressions
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/array/tests/__pycache__
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/array/tests
+1124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/array
+252	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/tests/__pycache__
+388	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor/tests
+2040	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/tensor
+444	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/geometry/__pycache__
+320	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/geometry/tests/__pycache__
+488	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/geometry/tests
+1296	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/geometry
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/fortran/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/fortran
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/c/__pycache__
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/c
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/autolev/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/autolev/test-examples/pydy-example-repo/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/autolev/test-examples/pydy-example-repo
+76	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/autolev/test-examples/__pycache__
+240	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/autolev/test-examples
+212	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/autolev/_antlr/__pycache__
+356	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/autolev/_antlr
+888	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/autolev
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/latex/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/latex/lark/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/latex/lark/grammar
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/latex/lark
+240	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/latex/_antlr/__pycache__
+404	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/latex/_antlr
+608	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/latex
+284	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/tests/__pycache__
+556	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing/tests
+2432	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/parsing
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/testing/__pycache__
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/testing/tests/__pycache__
+140	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/testing/tests
+452	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy/testing
+74032	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_nvjitlink_cu12-12.6.77.dist-info
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/filelock/__pycache__
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/filelock
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_cuda_runtime_cu12-12.1.105.dist-info
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/mpmath-1.3.0.dist-info
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/operator_versions/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/operator_versions
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/aoti/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/aoti
+460	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/api/types/__pycache__
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/api/types
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/api/__pycache__
+512	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/api
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/executorch/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/executorch/api/types/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/executorch/api/types
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/executorch/api/__pycache__
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/executorch/api
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/executorch
+284	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/packaged/autograd/__pycache__
+148	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/packaged/autograd/templates
+920	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/packaged/autograd
+588	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/packaged/ATen/native
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/packaged/ATen/templates
+784	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/packaged/ATen
+1708	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/packaged
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/dest/__pycache__
+236	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/dest
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/static_runtime/__pycache__
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/static_runtime
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/selective_build/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen/selective_build
+3792	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torchgen
+336	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/sympy-1.13.3.dist-info
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/__pycache__
+400	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/classes/__pycache__
+452	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/classes/tests/__pycache__
+696	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/classes/tests
+1428	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/classes
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/coloring/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/coloring/tests/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/coloring/tests
+156	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/coloring
+152	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/tree/__pycache__
+112	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/tree/tests/__pycache__
+188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/tree/tests
+488	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/tree
+244	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/centrality/__pycache__
+264	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/centrality/tests/__pycache__
+448	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/centrality/tests
+900	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/centrality
+180	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/approximation/__pycache__
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/approximation/tests/__pycache__
+276	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/approximation/tests
+620	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/approximation
+948	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/__pycache__
+188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/flow/__pycache__
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/flow/tests/__pycache__
+372	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/flow/tests
+732	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/flow
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/bipartite/__pycache__
+160	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/bipartite/tests/__pycache__
+260	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/bipartite/tests
+564	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/bipartite
+160	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/shortest_paths/__pycache__
+140	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/shortest_paths/tests/__pycache__
+232	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/shortest_paths/tests
+548	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/shortest_paths
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/assortativity/__pycache__
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/assortativity/tests/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/assortativity/tests
+212	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/assortativity
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/community/__pycache__
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/community/tests/__pycache__
+188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/community/tests
+436	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/community
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/operators/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/operators/tests/__pycache__
+144	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/operators/tests
+272	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/operators
+196	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/isomorphism/__pycache__
+252	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/isomorphism/tests/__pycache__
+472	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/isomorphism/tests
+852	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/isomorphism
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/link_analysis/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/link_analysis/tests/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/link_analysis/tests
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/link_analysis
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/traversal/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/traversal/tests/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/traversal/tests
+244	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/traversal
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/minors/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/minors/tests/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/minors/tests
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/minors
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/connectivity/__pycache__
+156	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/connectivity/tests/__pycache__
+264	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/connectivity/tests
+636	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/connectivity
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/components/__pycache__
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/components/tests/__pycache__
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/components/tests
+228	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/components
+912	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/tests/__pycache__
+1504	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms/tests
+10448	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/algorithms
+204	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/utils/__pycache__
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/utils/tests/__pycache__
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/utils/tests
+596	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/utils
+264	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/readwrite/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/readwrite/json_graph/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/readwrite/json_graph/tests/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/readwrite/json_graph/tests
+144	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/readwrite/json_graph
+320	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/readwrite/tests/__pycache__
+548	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/readwrite/tests
+1192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/readwrite
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/linalg/__pycache__
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/linalg/tests/__pycache__
+160	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/linalg/tests
+368	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/linalg
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/drawing/__pycache__
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/drawing/tests/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/drawing/tests/baseline
+248	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/drawing/tests
+604	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/drawing
+532	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/generators/__pycache__
+344	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/generators/tests/__pycache__
+568	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/generators/tests
+1604	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/generators
+160	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/tests/__pycache__
+260	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx/tests
+16724	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/networkx
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/markupsafe/__pycache__
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/markupsafe
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/fsspec-2024.9.0.dist-info/licenses
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/fsspec-2024.9.0.dist-info
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/jinja2-3.1.4.dist-info
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/filelock-3.16.1.dist-info/licenses
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/filelock-3.16.1.dist-info
+1784	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch-2.4.1.dist-info
+88	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/nvidia_cuda_cupti_cu12-12.1.105.dist-info
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/MarkupSafe-2.1.5.dist-info
+444	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_functorch/__pycache__
+252	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_functorch/_aot_autograd/__pycache__
+592	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_functorch/_aot_autograd
+1472	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_functorch
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_library/__pycache__
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_library
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/signal/windows/__pycache__
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/signal/windows
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/signal/__pycache__
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/signal
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/multiprocessing/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/multiprocessing
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/cpu/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/cpu/amp/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/cpu/amp
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/cpu
+280	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_numpy/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_numpy/testing/__pycache__
+176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_numpy/testing
+688	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_numpy
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_logging/__pycache__
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_logging
+2076	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/__pycache__
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/masked/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/masked/maskedtensor/__pycache__
+168	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/masked/maskedtensor
+420	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/masked
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/mps/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/mps
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/futures/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/futures
+304	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/export/__pycache__
+556	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/export
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fft/__pycache__
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fft
+380	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/__pycache__
+176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/experimental/migrate_gradual_types/__pycache__
+316	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/experimental/migrate_gradual_types
+644	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/experimental/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/experimental/unification/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/experimental/unification/multipledispatch/__pycache__
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/experimental/unification/multipledispatch
+204	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/experimental/unification
+1764	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/experimental
+272	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/infra/__pycache__
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/infra
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/utils/__pycache__
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/utils
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/dialect/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/dialect/common/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/dialect/common
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/dialect
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/backends/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/backends
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/tests/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes/tests
+804	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx/passes
+3276	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/fx
+10500	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/bin
+76	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/agent/server/__pycache__
+140	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/agent/server
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/agent/__pycache__
+152	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/agent
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/errors/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/errors
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/subprocess_handler/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/subprocess_handler
+220	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/timer/__pycache__
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/timer
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/utils/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/utils/data/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/utils/data
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/utils
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/events/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/events
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/metrics/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/metrics
+204	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/rendezvous/__pycache__
+384	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic/rendezvous
+1068	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/elastic
+432	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/__pycache__
+224	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tensor/__pycache__
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tensor/experimental/__pycache__
+136	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tensor/experimental
+232	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tensor/ops/__pycache__
+436	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tensor/ops
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tensor/debug/__pycache__
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tensor/debug
+1084	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tensor
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/launcher/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/launcher
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/_optimizer_overlap/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/_optimizer_overlap
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/_quantization/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/_quantization
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/_checkpoint/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/_checkpoint
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/model_averaging/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/model_averaging
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/ddp_comm_hooks/__pycache__
+232	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/ddp_comm_hooks
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/_comm_hooks/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms/_comm_hooks
+472	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/algorithms
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_sharded_tensor/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_sharded_tensor
+188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/pipelining/__pycache__
+372	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/pipelining
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/autograd/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/autograd
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/nn/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/nn/api/__pycache__
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/nn/api
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/nn/jit/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/nn/jit/templates/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/nn/jit/templates
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/nn/jit
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/nn
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharding_spec/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharding_spec/chunk_sharding_spec_ops/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharding_spec/chunk_sharding_spec_ops
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharding_spec
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/__pycache__
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharded_tensor/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharded_tensor/_ops/__pycache__
+88	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharded_tensor/_ops
+324	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharded_tensor
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharding_plan/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharding_plan
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharded_optim/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/sharded_optim
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/checkpoint/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard/checkpoint
+676	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_shard
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_composable/__pycache__
+148	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_composable/fsdp/__pycache__
+276	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_composable/fsdp
+360	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_composable
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/rpc/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/rpc/_testing/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/rpc/_testing
+272	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/rpc
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/optim/__pycache__
+380	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/optim
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_sharding_spec/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_sharding_spec
+636	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/fsdp/__pycache__
+1284	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/fsdp
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_cuda_p2p/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_cuda_p2p
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tools/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_tools
+284	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_spmd/__pycache__
+536	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/_spmd
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/tensor/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/tensor/parallel/__pycache__
+204	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/tensor/parallel
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/tensor
+352	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/checkpoint/__pycache__
+652	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed/checkpoint
+8580	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributed
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/contrib/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/contrib
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/model_dump/__pycache__
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/model_dump
+148	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/tensorboard/__pycache__
+280	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/tensorboard
+644	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/viz/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/viz
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/bottleneck/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/bottleneck
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes/utils/__pycache__
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes/utils
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes/iter/__pycache__
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes/iter
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes/map/__pycache__
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes/map
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes/dataframe/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes/dataframe
+664	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/datapipes
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/_utils/__pycache__
+112	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data/_utils
+1048	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/data
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/_sympy/__pycache__
+224	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/_sympy
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/backcompat/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/backcompat
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/jit/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/jit
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/_strobelight/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/_strobelight
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark/__pycache__
+140	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark/utils/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark/utils/valgrind_wrapper/__pycache__
+532	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark/utils/valgrind_wrapper
+784	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark/utils
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark/examples/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark/examples
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark/op_fuzzers/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark/op_fuzzers
+952	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/benchmark
+320	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/hipify/__pycache__
+728	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils/hipify
+4724	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/utils
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/special/__pycache__
+76	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/special
+408	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/autograd/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/autograd/_functions/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/autograd/_functions
+812	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/autograd
+288	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/cuda/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/cuda/amp/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/cuda/amp
+572	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/cuda
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/quantization/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/quantization/fx/__pycache__
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/quantization/fx
+248	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/quantization
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/amp/__pycache__
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/amp
+392	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/sparse/__pycache__
+892	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/sparse
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/xpu/__pycache__
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/xpu
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/profiler/__pycache__
+328	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/profiler
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/linalg/__pycache__
+236	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/linalg
+912	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/modules/__pycache__
+1716	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/modules
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/qat/modules/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/qat/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/qat/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/qat/dynamic/modules/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/qat/dynamic/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/qat/dynamic/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/qat/dynamic
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/qat
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/attention/__pycache__
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/attention
+308	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/modules/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/modules
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/qat/modules/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/qat/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/qat/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/qat
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/modules/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/dynamic/modules/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/dynamic/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/dynamic/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/dynamic
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic/quantized
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/intrinsic
+264	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/utils/__pycache__
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/utils/_expanded_weights/__pycache__
+144	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/utils/_expanded_weights
+664	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/utils
+180	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/parallel/__pycache__
+352	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/parallel
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/modules/__pycache__
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/modules
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/_reference/modules/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/_reference/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/_reference/__pycache__
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/_reference
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/dynamic/modules/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/dynamic/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/dynamic/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized/dynamic
+248	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantized
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/backends/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/backends
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantizable/modules/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantizable/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantizable/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn/quantizable
+4044	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nn
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/pass_infra/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/pass_infra
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/db/__pycache__
+152	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/db/examples/__pycache__
+304	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/db/examples
+352	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/db
+196	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/serde/__pycache__
+352	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/serde
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/passes/__pycache__
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export/passes
+1252	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_export
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_custom_op/__pycache__
+140	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_custom_op
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_awaits/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_awaits
+300	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs/special/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs/special
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs/linalg/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs/linalg
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs/nn/__pycache__
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs/nn/functional/__pycache__
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs/nn/functional
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs/nn
+712	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_refs
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_vendor/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_vendor/packaging/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_vendor/packaging
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_vendor
+1516744	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/lib
+896	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/__pycache__
+212	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/__pycache__
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/fx/__pycache__
+148	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/fx/passes/__pycache__
+292	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/fx/passes
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/fx/analysis/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/fx/analysis
+740	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/fx
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/diagnostics/__pycache__
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/diagnostics/infra/__pycache__
+248	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/diagnostics/infra/sarif/__pycache__
+492	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/diagnostics/infra/sarif
+612	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/diagnostics/infra
+724	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal/diagnostics
+1872	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx/_internal
+3540	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/onnx
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/func/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/func
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/mtia/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/mtia
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nested/__pycache__
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nested/_internal/__pycache__
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nested/_internal
+240	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/nested
+1624	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_C
+220	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_higher_order_ops/__pycache__
+400	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_higher_order_ops
+176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/package/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/package/analyze/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/package/analyze
+380	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/package
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_prims/__pycache__
+248	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_prims
+1188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dynamo/__pycache__
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dynamo/repro/__pycache__
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dynamo/repro
+112	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dynamo/backends/__pycache__
+204	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dynamo/backends
+856	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dynamo/variables/__pycache__
+1572	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dynamo/variables
+4128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dynamo
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share/cmake/Caffe2/Modules_CUDA_fix/upstream/FindCUDA
+152	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share/cmake/Caffe2/Modules_CUDA_fix/upstream
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share/cmake/Caffe2/Modules_CUDA_fix
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share/cmake/Caffe2/public
+316	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share/cmake/Caffe2
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share/cmake/Tensorpipe
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share/cmake/Torch
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share/cmake/ATen
+356	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share/cmake
+360	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/share
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/xnnpack/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/xnnpack
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/nnpack/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/nnpack
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/cpu/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/cpu
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/xeon/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/xeon
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/mps/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/mps
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/cuda/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/cuda
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/mha/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/mha
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/mkldnn/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/mkldnn
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/openmp/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/openmp
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/quantized/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/quantized
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/_nnapi/__pycache__
+224	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/_nnapi
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/_coreml/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/_coreml
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/cudnn/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/cudnn
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/opt_einsum/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/opt_einsum
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/mkl/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends/mkl
+604	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/backends
+252	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_subclasses/__pycache__
+512	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_subclasses
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/jit/_passes/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/jit/_passes
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/jit/mobile/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/jit/mobile
+492	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/jit/__pycache__
+980	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/jit
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_strobelight/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_strobelight
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/THC
+204	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/pybind11/detail
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/pybind11/eigen
+836	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/pybind11
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/kineto
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/caffe2/serialize
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/caffe2
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/vec256/zarch
+204	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/vec256/vsx
+640	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/vec256
+324	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cpu/vec/vec512
+1100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cpu/vec
+1120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cpu
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/functorch
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/mps
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/miopen
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/hip/impl
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/hip
+29568	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/ops
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cuda/tunable
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cuda/detail
+396	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cuda
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/xpu/detail
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/xpu
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/detail
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/quantized
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/core/op_registration
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/core/boxing/impl
+112	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/core/boxing
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/core/dispatch
+1344	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/core
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/cudnn
+252	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/native/cpu
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/native/transformers
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/native/mps
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/native/utils
+708	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/native/cuda
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/native/quantized/cpu
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/native/quantized
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/native/nested
+2020	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen/native
+40844	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/ATen
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/c10/cuda/impl
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/c10/cuda
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/c10/xpu/impl
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/c10/xpu
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/c10/core/impl
+644	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/c10/core
+1004	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/c10/util
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/c10/macros
+1860	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/c10
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/transport/ibv
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/transport/uv
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/transport/shm
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/transport
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/core
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/common
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/channel/xth
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/channel/cma
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/channel/mpt
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/channel/basic
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe/channel
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/tensorpipe
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_runner
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_runtime
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_torch/c
+64	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_torch/generated
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/inductor/aoti_torch
+236	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/inductor
+420	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/c10d
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/autograd/rpc_messages
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/autograd/context
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/autograd/functions
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/autograd
+180	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/distributed/rpc
+684	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/distributed
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/detail
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/options
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container
+356	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/utils
+180	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/functional
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/parallel
+840	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/dataloader
+52	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/datasets
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/samplers
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/detail
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data/transforms
+196	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/data
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/serialize
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/optim/schedulers
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/optim
+1352	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch
+1356	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api/include
+1360	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/api
+280	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/utils
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/utils
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/functions
+596	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/autograd/generated
+1028	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/autograd
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/cuda
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/xpu
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/standalone
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/stubs
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/python
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/unwind
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/profiler/orchestration
+232	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/profiler
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/onnx
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/dynamo
+136	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/ir
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/serialization
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/mobile
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/tensorexpr/operators
+404	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/tensorexpr
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/api
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/python
+228	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/frontend
+216	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/runtime
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/backends
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/passes/utils
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/passes/quantization
+484	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/passes
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/codegen/cuda
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/codegen
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit/testing
+2064	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/jit
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/tensor
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/ts_backend
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/backend
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/python
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/core/ops
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/core/internal_ops
+168	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/lazy/core
+252	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc/lazy
+6444	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch/csrc
+6524	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include/torch
+51272	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/include
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dispatch/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_dispatch
+452	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/optim/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/optim/_multi_tensor/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/optim/_multi_tensor
+908	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/optim
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_prims_common/__pycache__
+184	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_prims_common
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/monitor/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/monitor
+588	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributions/__pycache__
+996	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/distributions
+276	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_decomp/__pycache__
+484	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_decomp
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/compiler/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/compiler
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/__pycache__
+368	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/__pycache__
+424	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/fx/__pycache__
+144	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/fx/_model_report/__pycache__
+300	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/fx/_model_report
+1160	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/fx
+168	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/backend_config/__pycache__
+332	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/backend_config
+148	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/quantizer/__pycache__
+288	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/quantizer
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/pt2e/representation/__pycache__
+76	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/pt2e/representation
+144	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/pt2e/__pycache__
+340	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization/pt2e
+2824	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/quantization
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/qat/modules/__pycache__
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/qat/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/qat/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/qat/dynamic/modules/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/qat/dynamic/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/qat/dynamic/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/qat/dynamic
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/qat
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/modules/__pycache__
+44	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/modules
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/qat/modules/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/qat/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/qat/__pycache__
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/qat
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/modules/__pycache__
+80	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/__pycache__
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/dynamic/modules/__pycache__
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/dynamic/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/dynamic/__pycache__
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/dynamic
+136	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized
+320	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/intrinsic
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/sparse/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/sparse/quantized/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/sparse/quantized/dynamic/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/sparse/quantized/dynamic
+88	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/sparse/quantized
+104	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/sparse
+168	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/modules/__pycache__
+312	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/modules
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/dynamic/modules/__pycache__
+176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/dynamic/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/dynamic/__pycache__
+192	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/dynamic
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/reference/modules/__pycache__
+164	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/reference/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/reference/__pycache__
+180	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized/reference
+764	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantized
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantizable/modules/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantizable/modules
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantizable/__pycache__
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn/quantizable
+1456	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/nn
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/scheduler/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/scheduler
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/sparsifier/__pycache__
+92	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/sparsifier
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/activation_sparsifier/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/activation_sparsifier
+40	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_sparsifier/__pycache__
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_sparsifier/lightning/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_sparsifier/lightning/callbacks/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_sparsifier/lightning/callbacks
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_sparsifier/lightning
+128	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_sparsifier
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/pruner/__pycache__
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/pruner
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_scheduler/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental/data_scheduler
+364	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning/_experimental
+528	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/pruning
+72	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/ns/__pycache__
+188	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/ns/fx/__pycache__
+388	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/ns/fx
+524	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao/ns
+5348	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/ao
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_lazy/__pycache__
+120	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_lazy
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/kernel/__pycache__
+220	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/kernel
+612	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/fx_passes/__pycache__
+424	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/fx_passes/serialized_patterns/__pycache__
+772	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/fx_passes/serialized_patterns
+1916	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/fx_passes
+2020	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/__pycache__
+124	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/runtime/__pycache__
+236	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/runtime
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/compile_worker/__pycache__
+56	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/compile_worker
+960	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/codegen/__pycache__
+144	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/codegen/cuda/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/codegen/cuda/cutlass_lib_extensions/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/codegen/cuda/cutlass_lib_extensions
+296	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/codegen/cuda
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/codegen/xpu/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/codegen/xpu
+24	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/codegen/aoti_runtime
+2052	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor/codegen
+8080	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/_inductor
+100	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/__pycache__
+2408	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/__pycache__
+116	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/opinfo/__pycache__
+208	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/opinfo/definitions/__pycache__
+460	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/opinfo/definitions
+716	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/opinfo
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/test_module/__pycache__
+28	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/test_module
+600	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/_tensor/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/_tensor
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/nn/__pycache__
+48	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/nn/api/__pycache__
+84	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/nn/api
+96	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/nn
+12	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/_shard/__pycache__
+20	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/_shard/sharded_tensor/__pycache__
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/_shard/sharded_tensor
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/_shard
+560	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/rpc/__pycache__
+108	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/rpc/jit/__pycache__
+176	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/rpc/jit
+36	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/rpc/examples/__pycache__
+60	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/rpc/examples
+1172	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed/rpc
+2500	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/distributed
+476	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/generated/__pycache__
+1008	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/generated
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/data/__pycache__
+32	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/data
+68	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/optests/__pycache__
+132	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/optests
+8	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/codegen/__pycache__
+16	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal/codegen
+9268	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing/_internal
+9456	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch/testing
+1652408	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages/torch
+5070936	./.local/share/pipx/venvs/torch/lib/python3.12/site-packages
+5070940	./.local/share/pipx/venvs/torch/lib/python3.12
+5070944	./.local/share/pipx/venvs/torch/lib
+12	./.local/share/pipx/venvs/torch/share/man/man1
+16	./.local/share/pipx/venvs/torch/share/man
+20	./.local/share/pipx/venvs/torch/share
+4	./.local/share/pipx/venvs/torch/include/python3.12
+8	./.local/share/pipx/venvs/torch/include
+5071036	./.local/share/pipx/venvs/torch
+5373732	./.local/share/pipx/venvs
+5386696	./.local/share/pipx
+8	./.local/share/knewstuff3
+16	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.runtime/.settings
+20	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.runtime
+8	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.projects/General/.indexes
+20	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.projects/General
+24	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.projects
+8	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.safetable
+8	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.history/f8
+4	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.history/eb
+8	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.history/af
+4	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.history/85
+28	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.history
+8	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes
+16	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources/.root
+84	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.core.resources
+4	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.ui.workbench
+4	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.jkiss.dbeaver.ui
+228	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.eclipse.e4.workbench
+4	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.jkiss.dbeaver.model.sql
+4	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.jkiss.dbeaver.core/security
+12	./.local/share/DBeaverData/workspace6/.metadata/.plugins/org.jkiss.dbeaver.core
+360	./.local/share/DBeaverData/workspace6/.metadata/.plugins
+8	./.local/share/DBeaverData/workspace6/.metadata/.config
+524	./.local/share/DBeaverData/workspace6/.metadata
+8	./.local/share/DBeaverData/workspace6/General/.settings
+8	./.local/share/DBeaverData/workspace6/General/Scripts
+32	./.local/share/DBeaverData/workspace6/General/.dbeaver
+60	./.local/share/DBeaverData/workspace6/General
+588	./.local/share/DBeaverData/workspace6
+4	./.local/share/DBeaverData/secure
+104	./.local/share/DBeaverData/drivers/maven/maven-central/net.postgis
+144	./.local/share/DBeaverData/drivers/maven/maven-central/com.github.waffle
+92	./.local/share/DBeaverData/drivers/maven/maven-central/org.slf4j
+660	./.local/share/DBeaverData/drivers/maven/maven-central/com.github.ben-manes.caffeine
+236	./.local/share/DBeaverData/drivers/maven/maven-central/org.checkerframework
+12	./.local/share/DBeaverData/drivers/maven/maven-central/org.testcontainers
+3696	./.local/share/DBeaverData/drivers/maven/maven-central/net.java.dev.jna
+1072	./.local/share/DBeaverData/drivers/maven/maven-central/org.postgresql
+6020	./.local/share/DBeaverData/drivers/maven/maven-central
+6024	./.local/share/DBeaverData/drivers/maven
+8	./.local/share/DBeaverData/drivers/remote/pgjdbc/pgjdbc/master
+12	./.local/share/DBeaverData/drivers/remote/pgjdbc/pgjdbc
+16	./.local/share/DBeaverData/drivers/remote/pgjdbc
+20	./.local/share/DBeaverData/drivers/remote
+6048	./.local/share/DBeaverData/drivers
+6644	./.local/share/DBeaverData
+8	./.local/share/gwenview/recentfolders
+12	./.local/share/gwenview
+12	./.local/share/man/man1
+16	./.local/share/man
+5939924	./.local/share
+24	./.local/state/pipx/log
+28	./.local/state/pipx
+4	./.local/state/wireplumber
+60	./.local/state
+11031324	./.local
+8	./.cache/mc
+1360	./.cache/drkonqi/qmlcache
+2164	./.cache/drkonqi/crashes
+44	./.cache/drkonqi/qtpipelinecache-x86_64-little_endian-lp64
+3648	./.cache/drkonqi
+704	./.cache/kwin/qmlcache
+4	./.cache/kwin/qtpipelinecache-x86_64-little_endian-lp64
+712	./.cache/kwin
+4	./.cache/mesa_shader_cache
+208	./.cache/ksmserver-logout-greeter/qmlcache
+48	./.cache/ksmserver-logout-greeter/qtpipelinecache-x86_64-little_endian-lp64
+260	./.cache/ksmserver-logout-greeter
+4	./.cache/JNA/temp
+8	./.cache/JNA
+220	./.cache/xdg-desktop-portal-kde/qmlcache
+4	./.cache/xdg-desktop-portal-kde/qtpipelinecache-x86_64-little_endian-lp64
+228	./.cache/xdg-desktop-portal-kde
+900	./.cache/spectacle/qmlcache
+56	./.cache/spectacle/qtpipelinecache-x86_64-little_endian-lp64
+960	./.cache/spectacle
+8	./.cache/ddcutil
+592	./.cache/polkit-kde-authentication-agent-1/qmlcache
+28	./.cache/polkit-kde-authentication-agent-1/qtpipelinecache-x86_64-little_endian-lp64
+624	./.cache/polkit-kde-authentication-agent-1
+588	./.cache/kscreenlocker_greet/qmlcache
+12	./.cache/kscreenlocker_greet/_qt_QGfxShaderBuilder_6.8.0
+12	./.cache/kscreenlocker_greet/_qt_QGfxShaderBuilder_6.6.3
+12	./.cache/kscreenlocker_greet/_qt_QGfxShaderBuilder_6.7.3
+96	./.cache/kscreenlocker_greet/qtpipelinecache-x86_64-little_endian-lp64
+12	./.cache/kscreenlocker_greet/_qt_QGfxShaderBuilder_6.7.2
+736	./.cache/kscreenlocker_greet
+12	./.cache/mesa_shader_cache_db/part14
+12	./.cache/mesa_shader_cache_db/part19
+12	./.cache/mesa_shader_cache_db/part24
+12	./.cache/mesa_shader_cache_db/part43
+12	./.cache/mesa_shader_cache_db/part44
+12	./.cache/mesa_shader_cache_db/part38
+12	./.cache/mesa_shader_cache_db/part41
+12	./.cache/mesa_shader_cache_db/part37
+12	./.cache/mesa_shader_cache_db/part5
+12	./.cache/mesa_shader_cache_db/part27
+12	./.cache/mesa_shader_cache_db/part40
+12	./.cache/mesa_shader_cache_db/part33
+12	./.cache/mesa_shader_cache_db/part31
+12	./.cache/mesa_shader_cache_db/part42
+12	./.cache/mesa_shader_cache_db/part49
+12	./.cache/mesa_shader_cache_db/part12
+12	./.cache/mesa_shader_cache_db/part18
+12	./.cache/mesa_shader_cache_db/part1
+12	./.cache/mesa_shader_cache_db/part45
+12	./.cache/mesa_shader_cache_db/part28
+12	./.cache/mesa_shader_cache_db/part36
+12	./.cache/mesa_shader_cache_db/part29
+12	./.cache/mesa_shader_cache_db/part48
+12	./.cache/mesa_shader_cache_db/part46
+12	./.cache/mesa_shader_cache_db/part4
+12	./.cache/mesa_shader_cache_db/part23
+12	./.cache/mesa_shader_cache_db/part30
+12	./.cache/mesa_shader_cache_db/part21
+12	./.cache/mesa_shader_cache_db/part2
+12	./.cache/mesa_shader_cache_db/part20
+12260	./.cache/mesa_shader_cache_db/part0
+12	./.cache/mesa_shader_cache_db/part8
+12	./.cache/mesa_shader_cache_db/part25
+12	./.cache/mesa_shader_cache_db/part7
+12	./.cache/mesa_shader_cache_db/part13
+12	./.cache/mesa_shader_cache_db/part6
+12	./.cache/mesa_shader_cache_db/part10
+12	./.cache/mesa_shader_cache_db/part26
+12	./.cache/mesa_shader_cache_db/part3
+12	./.cache/mesa_shader_cache_db/part11
+12	./.cache/mesa_shader_cache_db/part32
+12	./.cache/mesa_shader_cache_db/part9
+12	./.cache/mesa_shader_cache_db/part34
+12	./.cache/mesa_shader_cache_db/part15
+12	./.cache/mesa_shader_cache_db/part39
+12	./.cache/mesa_shader_cache_db/part35
+12	./.cache/mesa_shader_cache_db/part47
+12	./.cache/mesa_shader_cache_db/part16
+12	./.cache/mesa_shader_cache_db/part22
+12	./.cache/mesa_shader_cache_db/part17
+14136	./.cache/mesa_shader_cache_db
+20	./.cache/kscreen_osd_service/qmlcache
+20	./.cache/kscreen_osd_service/qtpipelinecache-x86_64-little_endian-lp64
+44	./.cache/kscreen_osd_service
+4	./.cache/obexd
+4140	./.cache/systemsettings/qmlcache
+4	./.cache/systemsettings/qtpipelinecache-x86_64-little_endian-lp64
+4148	./.cache/systemsettings
+4	./.cache/kcrash-metadata
+672	./.cache/gstreamer-1.0
+2948	./.cache/virt-manager
+4	./.cache/thumbnails/fail/blender
+8	./.cache/thumbnails/fail
+4	./.cache/thumbnails/xx-large
+1624	./.cache/thumbnails/large
+4	./.cache/thumbnails/x-large
+1020	./.cache/thumbnails/normal
+2664	./.cache/thumbnails
+68	./.cache/yay/minecraft-launcher/.git/hooks
+4	./.cache/yay/minecraft-launcher/.git/refs/tags
+8	./.cache/yay/minecraft-launcher/.git/refs/remotes/origin
+12	./.cache/yay/minecraft-launcher/.git/refs/remotes
+8	./.cache/yay/minecraft-launcher/.git/refs/heads
+28	./.cache/yay/minecraft-launcher/.git/refs
+8	./.cache/yay/minecraft-launcher/.git/info
+88	./.cache/yay/minecraft-launcher/.git/objects/pack
+4	./.cache/yay/minecraft-launcher/.git/objects/info
+96	./.cache/yay/minecraft-launcher/.git/objects
+4	./.cache/yay/minecraft-launcher/.git/branches
+8	./.cache/yay/minecraft-launcher/.git/logs/refs/remotes/origin
+12	./.cache/yay/minecraft-launcher/.git/logs/refs/remotes
+8	./.cache/yay/minecraft-launcher/.git/logs/refs/heads
+24	./.cache/yay/minecraft-launcher/.git/logs/refs
+32	./.cache/yay/minecraft-launcher/.git/logs
+264	./.cache/yay/minecraft-launcher/.git
+1472	./.cache/yay/minecraft-launcher
+3540	./.cache/yay
+4	./.cache/Docker Desktop/bugsnag/9ef67c9fd6adc9eeed1c555e857a4eb3/runinfo
+4	./.cache/Docker Desktop/bugsnag/9ef67c9fd6adc9eeed1c555e857a4eb3/events
+4	./.cache/Docker Desktop/bugsnag/9ef67c9fd6adc9eeed1c555e857a4eb3/sessions
+24	./.cache/Docker Desktop/bugsnag/9ef67c9fd6adc9eeed1c555e857a4eb3
+28	./.cache/Docker Desktop/bugsnag
+32	./.cache/Docker Desktop
+5696	./.cache/flatpak/system-cache/summaries
+5700	./.cache/flatpak/system-cache
+5704	./.cache/flatpak
+4	./.cache/kio_http
+976	./.cache/kinfocenter/qmlcache
+4	./.cache/kinfocenter/qtpipelinecache-x86_64-little_endian-lp64
+984	./.cache/kinfocenter
+103844	./.cache/electron/8b2d20de65cadcdceec486f4c1dd5a747aebc267630583f865354d8c28b27821
+103848	./.cache/electron
+448	./.cache/qtshadercache-x86_64-little_endian-lp64
+4	./.cache/discover/knewstuff/data8/d
+4	./.cache/discover/knewstuff/data8/1
+4	./.cache/discover/knewstuff/data8/3
+4	./.cache/discover/knewstuff/data8/8
+4	./.cache/discover/knewstuff/data8/9
+4	./.cache/discover/knewstuff/data8/a
+4	./.cache/discover/knewstuff/data8/c
+4	./.cache/discover/knewstuff/data8/e
+4	./.cache/discover/knewstuff/data8/0
+4	./.cache/discover/knewstuff/data8/b
+4	./.cache/discover/knewstuff/data8/5
+4	./.cache/discover/knewstuff/data8/7
+4	./.cache/discover/knewstuff/data8/6
+4	./.cache/discover/knewstuff/data8/2
+4	./.cache/discover/knewstuff/data8/f
+4	./.cache/discover/knewstuff/data8/4
+68	./.cache/discover/knewstuff/data8
+72	./.cache/discover/knewstuff
+1896	./.cache/discover/qmlcache
+4	./.cache/discover/attica/data8/d
+4	./.cache/discover/attica/data8/1
+4	./.cache/discover/attica/data8/3
+4	./.cache/discover/attica/data8/8
+4	./.cache/discover/attica/data8/9
+4	./.cache/discover/attica/data8/a
+4	./.cache/discover/attica/data8/c
+4	./.cache/discover/attica/data8/e
+4	./.cache/discover/attica/data8/0
+4	./.cache/discover/attica/data8/b
+4	./.cache/discover/attica/data8/5
+4	./.cache/discover/attica/data8/7
+4	./.cache/discover/attica/data8/6
+4	./.cache/discover/attica/data8/2
+4	./.cache/discover/attica/data8/f
+4	./.cache/discover/attica/data8/4
+68	./.cache/discover/attica/data8
+72	./.cache/discover/attica
+1620	./.cache/discover/ratings
+32	./.cache/discover/qtpipelinecache-x86_64-little_endian-lp64
+3700	./.cache/discover
+16	./.cache/awesome
+8	./.cache/kitty
+1864	./.cache/KDE/plasma-welcome/qmlcache
+56	./.cache/KDE/plasma-welcome/qtpipelinecache-x86_64-little_endian-lp64
+1924	./.cache/KDE/plasma-welcome
+1928	./.cache/KDE
+20	./.cache/xmonad/build-x86_64-linux
+48	./.cache/xmonad
+12	./.cache/mozilla/firefox/ta4an551.default-release/settings/main/ms-language-packs/browser/newtab
+16	./.cache/mozilla/firefox/ta4an551.default-release/settings/main/ms-language-packs/browser
+20	./.cache/mozilla/firefox/ta4an551.default-release/settings/main/ms-language-packs
+24	./.cache/mozilla/firefox/ta4an551.default-release/settings/main
+28	./.cache/mozilla/firefox/ta4an551.default-release/settings
+84	./.cache/mozilla/firefox/ta4an551.default-release/thumbnails
+10128	./.cache/mozilla/firefox/ta4an551.default-release/safebrowsing/google4
+14128	./.cache/mozilla/firefox/ta4an551.default-release/safebrowsing
+24	./.cache/mozilla/firefox/ta4an551.default-release/cache2/doomed
+388376	./.cache/mozilla/firefox/ta4an551.default-release/cache2/entries
+388644	./.cache/mozilla/firefox/ta4an551.default-release/cache2
+25236	./.cache/mozilla/firefox/ta4an551.default-release/startupCache
+428132	./.cache/mozilla/firefox/ta4an551.default-release
+4	./.cache/mozilla/firefox/jwbj47z4.default
+428140	./.cache/mozilla/firefox
+428144	./.cache/mozilla
+3524	./.cache/fontconfig
+8	./.cache/google-chrome/Profile 1/Code Cache/wasm/index-dir
+16	./.cache/google-chrome/Profile 1/Code Cache/wasm
+8	./.cache/google-chrome/Profile 1/Code Cache/js/index-dir
+68	./.cache/google-chrome/Profile 1/Code Cache/js
+88	./.cache/google-chrome/Profile 1/Code Cache
+8	./.cache/google-chrome/Profile 1/Cache/Cache_Data/index-dir
+80	./.cache/google-chrome/Profile 1/Cache/Cache_Data
+84	./.cache/google-chrome/Profile 1/Cache
+8	./.cache/google-chrome/Profile 1/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/wasm/index-dir
+16	./.cache/google-chrome/Profile 1/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/wasm
+8	./.cache/google-chrome/Profile 1/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/js/index-dir
+20	./.cache/google-chrome/Profile 1/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/js
+40	./.cache/google-chrome/Profile 1/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache
+4	./.cache/google-chrome/Profile 1/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache/Cache_Data
+8	./.cache/google-chrome/Profile 1/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache
+52	./.cache/google-chrome/Profile 1/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def
+56	./.cache/google-chrome/Profile 1/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda
+60	./.cache/google-chrome/Profile 1/Storage/ext
+64	./.cache/google-chrome/Profile 1/Storage
+240	./.cache/google-chrome/Profile 1
+8	./.cache/google-chrome/Default/Code Cache/wasm/index-dir
+55588	./.cache/google-chrome/Default/Code Cache/wasm
+148	./.cache/google-chrome/Default/Code Cache/js/index-dir
+319436	./.cache/google-chrome/Default/Code Cache/js
+375028	./.cache/google-chrome/Default/Code Cache
+^C
+(base) [apohorai@pohaserver ~]$ df
+Filesystem      1K-blocks       Used  Available Use% Mounted on
+dev              24637580          0   24637580   0% /dev
+run              24661688       2440   24659248   1% /run
+efivarfs              256         84        168  34% /sys/firmware/efi/efivars
+/dev/sdb3       904568444  493567964  364977176  58% /
+tmpfs            24661688      38492   24623196   1% /dev/shm
+tmpfs            24661692      56244   24605448   1% /tmp
+tmpfs                1024          0       1024   0% /run/credentials/systemd-journald.service
+tmpfs                1024          0       1024   0% /run/credentials/systemd-udev-load-credentials.service
+tmpfs                1024          0       1024   0% /run/credentials/systemd-tmpfiles-setup-dev-early.service
+tmpfs                1024          0       1024   0% /run/credentials/systemd-sysctl.service
+tmpfs                1024          0       1024   0% /run/credentials/systemd-tmpfiles-setup-dev.service
+tmpfs                1024          0       1024   0% /run/credentials/systemd-vconsole-setup.service
+/dev/loop2          65536      65536          0 100% /var/lib/snapd/snap/core20/2379
+/dev/loop0          39808      39808          0 100% /var/lib/snapd/snap/snapd/21759
+/dev/loop1          35968      35968          0 100% /var/lib/snapd/snap/copilot-client/107
+/dev/sda1      3844549616 1030969240 2618213160  29% /hdd
+tmpfs                1024          0       1024   0% /run/credentials/systemd-tmpfiles-setup.service
+tmpfs             4932336         64    4932272   1% /run/user/1000
+(base) [apohorai@pohaserver ~]$ sudo dd if=/dev/sdc1 of=/hdd/backuphdc1.img
+dd: error reading '/dev/sdc1': Input/output error
+2419136+0 records in
+2419136+0 records out
+1238597632 bytes (1.2 GB, 1.2 GiB) copied, 14.5246 s, 85.3 MB/s
+(base) [apohorai@pohaserver ~]$ ls -la
+total 12950996
+drwx--x---+ 46 apohorai     apohorai            4096 Nov 18 02:56 .
+drwxr-xr-x   4 root         root                4096 Aug 19 07:42 ..
+-rw-r--r--   1 apohorai     apohorai            5968 Sep 21 08:22 2024-09-21-002214_1920x1050_scrot.png
+-rw-r--r--   1 apohorai     apohorai             429 Sep 10 20:04 a
+drwxr-xr-x   2 apohorai     apohorai            4096 Jan 13  2024 aix
+-rwxrwxrwx   1 libvirt-qemu libvirt-qemu   820326400 Apr 13  2023 archlinux-2022.11.01-x86_64.iso
+-rw-r--r--   1 apohorai     apohorai       445216553 Jan 13  2024 ArchLinuxARM-rpi-armv7-latest.tar.gz
+-rw-------   1 apohorai     apohorai           10693 Nov 18 02:22 .bash_history
+-rw-------   1 apohorai     apohorai               0 Jun 22 15:41 .bash_history-01270.tmp
+-rw-------   1 apohorai     apohorai            9144 Jun  2 19:30 .bash_history-01421.tmp
+-rw-------   1 apohorai     apohorai           12325 Nov  1 17:40 .bash_history-01613.tmp
+-rw-r--r--   1 apohorai     apohorai              21 Feb  2  2023 .bash_logout
+-rw-r--r--   1 apohorai     apohorai              85 Sep 26 21:06 .bash_profile
+-rw-r--r--   1 apohorai     apohorai             663 Oct  6 20:13 .bashrc
+drwx------  51 apohorai     apohorai            4096 Nov 18 02:54 .cache
+drwxr-xr-x   3 apohorai     apohorai            4096 Oct  6 20:28 .cargo
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov  9  2023 clover-ventura
+drwxr-xr-x   2 apohorai     apohorai            4096 Oct  6 20:14 .conda
+drwx------  31 apohorai     apohorai            4096 Nov 18 02:39 .config
+drwxr-xr-x   4 apohorai     apohorai            4096 Oct  2 00:14 copilot_shift_app
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Desktop
+-rw-r--r--   1 apohorai     apohorai              25 Apr 27  2023 .dmrc
+drwxr-xr-x   7 apohorai     apohorai            4096 Sep 25 22:32 .docker
+drwxr-xr-x   2 apohorai     apohorai            4096 Sep 21 08:24 Documents
+drwxr-xr-x   4 apohorai     apohorai            4096 Nov 16 00:55 Downloads
+drwxr-xr-x   3 apohorai     apohorai            4096 Sep 10 18:43 .eclipse
+drwxr-xr-x  14 apohorai     apohorai            4096 Oct 22 20:52 .gitclone
+-rw-r--r--   1 apohorai     apohorai              58 Sep  9 11:48 .gitconfig
+drwx------   2 apohorai     apohorai            4096 Oct 22 20:32 .gnupg
+drwxr-xr-x   3 apohorai     apohorai            4096 Sep 26 05:48 go
+-rw-r--r--   1 apohorai     apohorai             324 Nov 18 02:35 .gtkrc-2.0
+-rwxr-xr-x   1 apohorai     apohorai        11650961 Jan 14  2024 ie4setup.gz
+-rw-------   1 apohorai     apohorai              20 Nov 10 00:50 .lesshst
+drwxr-xr-x   3 apohorai     apohorai            4096 Oct  6 20:03 .llama
+drwxr-xr-x   7 apohorai     apohorai            4096 Oct  6 20:29 llama3
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 10 19:48 llama32
+drwxr-xr-x   4 apohorai     apohorai            4096 Nov 11 20:25 llama_shift_app_test
+drwxr-xr-x   6 apohorai     apohorai            4096 Oct  6 20:28 .local
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 11 19:09 managed_context
+drwxr-xr-x  16 apohorai     apohorai            4096 Oct 21 03:44 .minecraft
+drwxr-xr-x  19 apohorai     apohorai            4096 Oct  6 20:13 miniconda3
+-rw-r--r--   1 apohorai     apohorai       148981743 Aug 23 00:47 Miniconda3-latest-Linux-x86_64.sh
+drwx------   4 apohorai     apohorai            4096 Apr 22  2023 .mozilla
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Music
+drwxr-xr-x   5 apohorai     apohorai            4096 Sep 21 06:53 .npm
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 17 16:55 .ollama
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 11 00:44 ollama
+drwxr-xr-x   3 apohorai     apohorai            4096 Sep  9 12:27 Pictures
+drwx------   3 apohorai     apohorai            4096 Aug 17 21:50 .pki
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Public
+-rwxrwxrwx   1 apohorai     apohorai             204 Dec 29  2023 setlan
+drwxr-xr-x   4 apohorai     apohorai            4096 Sep 23 04:30 shift-app
+drwxr-xr-x   5 apohorai     apohorai            4096 Sep 30 05:23 shiftapp
+drwxr-xr-x   4 apohorai     apohorai            4096 Sep 27 22:24 shift-app-adc
+drwx------   2 apohorai     apohorai            4096 Sep  9 10:21 .ssh
+drwxr-xr-x   5 apohorai     apohorai            4096 Nov 15 06:31 starcoder
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Templates
+-rw-r--r--   1 root         root           997288635 Apr 19  2024 testdisk.log
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 11 19:09 test_suite_analysis
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Videos
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 22  2023 .vim
+-rw-------   1 apohorai     apohorai           11669 Nov 15 05:59 .viminfo
+drwxr-xr-x   4 apohorai     apohorai            4096 Sep 26 23:54 .vscode
+drwxr-xr-x   3 apohorai     apohorai            4096 Aug 24 08:31 .vscode-oss
+drwxr-xr-x   2 apohorai     apohorai            4096 Sep  9 11:40 web
+-rw-------   1 apohorai     apohorai             112 Nov  4 05:16 .Xauthority
+-rw-r--r--   1 apohorai     apohorai     10838018895 Nov  9  2023 Xcode_13.3.1.xip
+-rw-r--r--   1 apohorai     apohorai             650 Apr 14  2023 .xinitrc
+-rw-r--r--   1 apohorai     apohorai            2315 Nov  4 03:31 xorg.conf.new
+-rw-r--r--   1 apohorai     apohorai              13 Apr 24  2023 .Xresources
+-rw-------   1 apohorai     apohorai             129 Nov 18 02:35 .xsession-errors
+-rw-------   1 apohorai     apohorai             236 Nov 18 02:22 .xsession-errors.old
+drwxr-xr-x   2 apohorai     apohorai            4096 Sep 18  2022 zos_youtube_cmgr_installed
+(base) [apohorai@pohaserver ~]$ ls -latr
+total 12950996
+drwxr-xr-x   2 apohorai     apohorai            4096 Sep 18  2022 zos_youtube_cmgr_installed
+-rw-r--r--   1 apohorai     apohorai              21 Feb  2  2023 .bash_logout
+-rwxrwxrwx   1 libvirt-qemu libvirt-qemu   820326400 Apr 13  2023 archlinux-2022.11.01-x86_64.iso
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Videos
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Templates
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Public
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Music
+-rw-r--r--   1 apohorai     apohorai             650 Apr 14  2023 .xinitrc
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 14  2023 Desktop
+drwxr-xr-x   2 apohorai     apohorai            4096 Apr 22  2023 .vim
+drwx------   4 apohorai     apohorai            4096 Apr 22  2023 .mozilla
+-rw-r--r--   1 apohorai     apohorai              13 Apr 24  2023 .Xresources
+-rw-r--r--   1 apohorai     apohorai              25 Apr 27  2023 .dmrc
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov  9  2023 clover-ventura
+-rw-r--r--   1 apohorai     apohorai     10838018895 Nov  9  2023 Xcode_13.3.1.xip
+-rwxrwxrwx   1 apohorai     apohorai             204 Dec 29  2023 setlan
+drwxr-xr-x   2 apohorai     apohorai            4096 Jan 13  2024 aix
+-rw-r--r--   1 apohorai     apohorai       445216553 Jan 13  2024 ArchLinuxARM-rpi-armv7-latest.tar.gz
+-rwxr-xr-x   1 apohorai     apohorai        11650961 Jan 14  2024 ie4setup.gz
+-rw-r--r--   1 root         root           997288635 Apr 19  2024 testdisk.log
+-rw-------   1 apohorai     apohorai            9144 Jun  2 19:30 .bash_history-01421.tmp
+-rw-------   1 apohorai     apohorai               0 Jun 22 15:41 .bash_history-01270.tmp
+drwx------   3 apohorai     apohorai            4096 Aug 17 21:50 .pki
+drwxr-xr-x   4 root         root                4096 Aug 19 07:42 ..
+-rw-r--r--   1 apohorai     apohorai       148981743 Aug 23 00:47 Miniconda3-latest-Linux-x86_64.sh
+drwxr-xr-x   3 apohorai     apohorai            4096 Aug 24 08:31 .vscode-oss
+drwx------   2 apohorai     apohorai            4096 Sep  9 10:21 .ssh
+drwxr-xr-x   2 apohorai     apohorai            4096 Sep  9 11:40 web
+-rw-r--r--   1 apohorai     apohorai              58 Sep  9 11:48 .gitconfig
+drwxr-xr-x   3 apohorai     apohorai            4096 Sep  9 12:27 Pictures
+drwxr-xr-x   3 apohorai     apohorai            4096 Sep 10 18:43 .eclipse
+-rw-r--r--   1 apohorai     apohorai             429 Sep 10 20:04 a
+drwxr-xr-x   5 apohorai     apohorai            4096 Sep 21 06:53 .npm
+-rw-r--r--   1 apohorai     apohorai            5968 Sep 21 08:22 2024-09-21-002214_1920x1050_scrot.png
+drwxr-xr-x   2 apohorai     apohorai            4096 Sep 21 08:24 Documents
+drwxr-xr-x   4 apohorai     apohorai            4096 Sep 23 04:30 shift-app
+drwxr-xr-x   7 apohorai     apohorai            4096 Sep 25 22:32 .docker
+drwxr-xr-x   3 apohorai     apohorai            4096 Sep 26 05:48 go
+-rw-r--r--   1 apohorai     apohorai              85 Sep 26 21:06 .bash_profile
+drwxr-xr-x   4 apohorai     apohorai            4096 Sep 26 23:54 .vscode
+drwxr-xr-x   4 apohorai     apohorai            4096 Sep 27 22:24 shift-app-adc
+drwxr-xr-x   5 apohorai     apohorai            4096 Sep 30 05:23 shiftapp
+drwxr-xr-x   4 apohorai     apohorai            4096 Oct  2 00:14 copilot_shift_app
+drwxr-xr-x   3 apohorai     apohorai            4096 Oct  6 20:03 .llama
+drwxr-xr-x  19 apohorai     apohorai            4096 Oct  6 20:13 miniconda3
+-rw-r--r--   1 apohorai     apohorai             663 Oct  6 20:13 .bashrc
+drwxr-xr-x   2 apohorai     apohorai            4096 Oct  6 20:14 .conda
+drwxr-xr-x   3 apohorai     apohorai            4096 Oct  6 20:28 .cargo
+drwxr-xr-x   6 apohorai     apohorai            4096 Oct  6 20:28 .local
+drwxr-xr-x   7 apohorai     apohorai            4096 Oct  6 20:29 llama3
+drwxr-xr-x  16 apohorai     apohorai            4096 Oct 21 03:44 .minecraft
+drwx------   2 apohorai     apohorai            4096 Oct 22 20:32 .gnupg
+drwxr-xr-x  14 apohorai     apohorai            4096 Oct 22 20:52 .gitclone
+-rw-------   1 apohorai     apohorai           12325 Nov  1 17:40 .bash_history-01613.tmp
+-rw-r--r--   1 apohorai     apohorai            2315 Nov  4 03:31 xorg.conf.new
+-rw-------   1 apohorai     apohorai             112 Nov  4 05:16 .Xauthority
+-rw-------   1 apohorai     apohorai              20 Nov 10 00:50 .lesshst
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 10 19:48 llama32
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 11 00:44 ollama
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 11 19:09 test_suite_analysis
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 11 19:09 managed_context
+drwxr-xr-x   4 apohorai     apohorai            4096 Nov 11 20:25 llama_shift_app_test
+-rw-------   1 apohorai     apohorai           11669 Nov 15 05:59 .viminfo
+drwxr-xr-x   5 apohorai     apohorai            4096 Nov 15 06:31 starcoder
+drwxr-xr-x   4 apohorai     apohorai            4096 Nov 16 00:55 Downloads
+drwxr-xr-x   2 apohorai     apohorai            4096 Nov 17 16:55 .ollama
+-rw-------   1 apohorai     apohorai             236 Nov 18 02:22 .xsession-errors.old
+-rw-------   1 apohorai     apohorai           10693 Nov 18 02:22 .bash_history
+-rw-------   1 apohorai     apohorai             129 Nov 18 02:35 .xsession-errors
+-rw-r--r--   1 apohorai     apohorai             324 Nov 18 02:35 .gtkrc-2.0
+drwx------  31 apohorai     apohorai            4096 Nov 18 02:39 .config
+drwx------  51 apohorai     apohorai            4096 Nov 18 02:54 .cache
+drwx--x---+ 46 apohorai     apohorai            4096 Nov 18 02:56 .
+(base) [apohorai@pohaserver ~]$ sudo pacman -Sy ddrescue
+:: Synchronizing package databases...
+ core                                                        116.6 KiB  96.6 KiB/s 00:01 [###################################################] 100%
+ extra                                                         7.6 MiB  3.39 MiB/s 00:02 [###################################################] 100%
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (1) ddrescue-1.28-1
+
+Total Download Size:   0.12 MiB
+Total Installed Size:  0.26 MiB
+
+:: Proceed with installation? [Y/n] Y
+:: Retrieving packages...
+ ddrescue-1.28-1-x86_64                                      125.6 KiB   271 KiB/s 00:00 [###################################################] 100%
+(1/1) checking keys in keyring                                                           [###################################################] 100%
+(1/1) checking package integrity                                                         [###################################################] 100%
+(1/1) loading package files                                                              [###################################################] 100%
+(1/1) checking for file conflicts                                                        [###################################################] 100%
+(1/1) checking available disk space                                                      [###################################################] 100%
+:: Processing package changes...
+(1/1) installing ddrescue                                                                [###################################################] 100%
+:: Running post-transaction hooks...
+(1/2) Arming ConditionNeedsUpdate...
+(2/2) Updating the info directory file...
+(base) [apohorai@pohaserver ~]$ sudo ddrescue -f -n /dev/sdc1 /hdd/backuphdc1.img /hdd/backuphdc1.log
+GNU ddrescue 1.28
+Press Ctrl-C to interrupt
+     ipos:   22383 MB, non-trimmed:    1249 kB,  current rate:   9781 kB/s
+     opos:   22383 MB, non-scraped:        0 B,  average rate:  35857 kB/s
+non-tried:  477802 MB,  bad-sector:        0 B,    error rate:       0 B/s
+  rescued:   22195 MB,   bad areas:        0,        run time:     10m 19s
+pct rescued:    4.43%, read errors:       31,  remaining time:      2h 36m
+                              time since last successful read:          0s
