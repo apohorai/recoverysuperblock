@@ -2083,3 +2083,56 @@ Finished
 /hdd/backuphdc1.img
 (base) [apohorai@pohaserver ~]$ ls -la /hdd/*.img
 -rw-r--r-- 1 root root 499999834112 Nov 18 08:18 /hdd/backuphdc1.img
+
+
+-rw-r--r--  1 root     root           618303 Nov 18 08:14 backuphdc1.log.bak
+-rw-r--r--  1 root     root     499999834112 Nov 18 08:18 backuphdc1.img
+-rw-r--r--  1 root     root           645435 Nov 18 08:18 backuphdc1.log
+-rw-r--r--  1 root     root           211614 Nov 18 21:21 backuphdc2.log.bak
+-rw-r--r--  1 root     root     500204003328 Nov 18 21:23 backuphdc2.img
+drwxrwxrwx 10 root     root             4096 Nov 18 21:23 .
+-rw-r--r--  1 root     root           224970 Nov 18 21:23 backuphdc2.log
+
+
+(base) [apohorai@pohaserver ~]$ ls -la /hdd/*.img
+-rw-r--r-- 1 root root 499999834112 Nov 18 08:18 /hdd/backuphdc1.img
+(base) [apohorai@pohaserver ~]$ sudo ddrescue -f -n /dev/sdc2 /hdd/backuphdc2.img /hdd/backuphdc2.log
+[sudo] password for apohorai: 
+GNU ddrescue 1.28
+Press Ctrl-C to interrupt
+     ipos:  500203 MB, non-trimmed:    3440 kB,  current rate:  67174 kB/s
+     opos:  500203 MB, non-scraped:        0 B,  average rate:  36877 kB/s
+non-tried:  489488 kB,  bad-sector:        0 B,    error rate:       0 B/s
+  rescued:  499711 MB,   bad areas:        0,        run time:  3h 45m 50s
+pct rescued:   99.90%, read errors:       79,  remaining time:          8s
+                              time since last successful read:          0s
+Copying non-tried blocks... Pass 1 (forwards)
+     ipos:   18321 MB, non-trimmed:    6893 kB,  current rate:    184 kB/s
+     opos:   18321 MB, non-scraped:        0 B,  average rate:  36695 kB/s
+non-tried:  294125 kB,  bad-sector:        0 B,    error rate:   12288 B/s
+  rescued:  499902 MB,   bad areas:        0,        run time:  3h 47m  3s
+pct rescued:   99.93%, read errors:      151,  remaining time:      1m 46s
+                              time since last successful read:          0s
+Copying non-tried blocks... Pass 2 (backwards)
+     ipos:   18321 MB, non-trimmed:    9379 kB,  current rate:   61440 B/s
+     opos:   18321 MB, non-scraped:        0 B,  average rate:  36607 kB/s
+non-tried:  288161 kB,  bad-sector:        0 B,    error rate:   69632 B/s
+  rescued:  499906 MB,   bad areas:        0,        run time:  3h 47m 36s
+pct rescued:   99.94%, read errors:      205,  remaining time:         48m
+                              time since last successful read:          0s
+Copying non-tried blocks... Pass 4 (backwards)
+     ipos:  444548 MB, non-trimmed:  137048 kB,  current rate:       0 B/s
+     opos:  444548 MB, non-scraped:        0 B,  average rate:  32701 kB/s
+non-tried:        0 B,  bad-sector:        0 B,    error rate:    131 kB/s
+  rescued:  500066 MB,   bad areas:        0,        run time:  4h 14m 52s
+pct rescued:   99.97%, read errors:     2786,  remaining time:         53m
+                              time since last successful read:          1s
+Copying non-tried blocks... Pass 5 (forwards) 
+     ipos:  444548 MB, non-trimmed:        0 B,  current rate:       0 B/s
+     opos:  444548 MB, non-scraped:   84614 kB,  average rate:  30295 kB/s
+non-tried:        0 B,  bad-sector:    2075 kB,    error rate:       0 B/s
+  rescued:  500117 MB,   bad areas:     4053,        run time:  4h 35m  7s
+pct rescued:   99.98%, read errors:     6839,  remaining time:         31m
+                              time since last successful read:          0s
+Trimming failed blocks... (forwards)         
+Finished                         
