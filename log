@@ -2136,3 +2136,44 @@ pct rescued:   99.98%, read errors:     6839,  remaining time:         31m
                               time since last successful read:          0s
 Trimming failed blocks... (forwards)         
 Finished                         
+
+(base) [apohorai@pohaserver ~]$ sudo mount -o loop /hdd/backuphdc1.img /mnt/old
+[sudo] password for apohorai: 
+(base) [apohorai@pohaserver ~]$ cd /mnt/old
+(base) [apohorai@pohaserver old]$ ls -la
+total 409636
+drwxrwxrwx  9 root     root          4096 May  6  2023 .
+drwxr-xr-x  7 root     root          4096 Apr  6  2024 ..
+drwxr-xr-x  2 apohorai apohorai      4096 Jul 24  2023 aix
+drwxr-xr-x  2 apohorai apohorai      4096 Jul 19  2022 dji
+-rw-r--r--  1 apohorai apohorai 419430400 May  6  2023 foo
+drwxr-xr-x 48 apohorai apohorai      4096 Feb 17  2023 localcache
+drwxr-xr-x 34 apohorai apohorai      4096 Jun 28  2023 localshare
+drwxr-xr-x  9 apohorai apohorai      4096 Jul  1  2022 OSX-BIG_SUR_BASE_NO_REG
+drwxr-xr-x  9 apohorai apohorai      4096 Nov 16  2022 OSX-monterrey-baseline
+drwxr-xr-x  3 apohorai apohorai      4096 Oct 20  2022 SteamLibrary
+(base) [apohorai@pohaserver old]$ cd ..
+(base) [apohorai@pohaserver mnt]$ sudo umount /mnt/old
+(base) [apohorai@pohaserver mnt]$ sudo mount -o loop /hdd/backuphdc2.img /mnt/old
+(base) [apohorai@pohaserver mnt]$ cd /mnt/old
+(base) [apohorai@pohaserver old]$ ls -la
+total 32
+drwxr-xr-x 5 apohorai apohorai  4096 Nov  6  2022 .
+drwxr-xr-x 7 root     root      4096 Apr  6  2024 ..
+drwx------ 2 root     root     16384 Jun 29  2022 lost+found
+drwxr-xr-x 2 apohorai apohorai  4096 Nov  7  2022 newaix2022Nov
+drwxr-xr-x 5 apohorai apohorai  4096 Jul  7  2022 wedding
+(base) [apohorai@pohaserver old]$ cd wedding/
+(base) [apohorai@pohaserver wedding]$ ls
+ drive  'projekt file'  'video 1'
+(base) [apohorai@pohaserver wedding]$ cd drive/
+(base) [apohorai@pohaserver drive]$ ls
+3  video2
+(base) [apohorai@pohaserver drive]$ cd 3
+(base) [apohorai@pohaserver 3]$ ls
+C0781.MP4  C0786.MP4  C0792.MP4  C0797.MP4  C0802.MP4  C0807.MP4  C0812.MP4  C0817.MP4  C0822.MP4  C0827.MP4  C0832.MP4  C0838.MP4
+C0782.MP4  C0787.MP4  C0793.MP4  C0798.MP4  C0803.MP4  C0808.MP4  C0813.MP4  C0818.MP4  C0823.MP4  C0828.MP4  C0833.MP4  C0839.MP4
+C0783.MP4  C0788.MP4  C0794.MP4  C0799.MP4  C0804.MP4  C0809.MP4  C0814.MP4  C0819.MP4  C0824.MP4  C0829.MP4  C0835.MP4  C0840.MP4
+C0784.MP4  C0790.MP4  C0795.MP4  C0800.MP4  C0805.MP4  C0810.MP4  C0815.MP4  C0820.MP4  C0825.MP4  C0830.MP4  C0836.MP4  C0841.MP4
+C0785.MP4  C0791.MP4  C0796.MP4  C0801.MP4  C0806.MP4  C0811.MP4  C0816.MP4  C0821.MP4  C0826.MP4  C0831.MP4  C0837.MP4
+(base) [apohorai@pohaserver 3]$ vlc C0781.MP4
