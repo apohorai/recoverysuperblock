@@ -2174,6 +2174,24 @@ drwxr-xr-x 5 apohorai apohorai  4096 Jul  7  2022 wedding
 C0781.MP4  C0786.MP4  C0792.MP4  C0797.MP4  C0802.MP4  C0807.MP4  C0812.MP4  C0817.MP4  C0822.MP4  C0827.MP4  C0832.MP4  C0838.MP4
 C0782.MP4  C0787.MP4  C0793.MP4  C0798.MP4  C0803.MP4  C0808.MP4  C0813.MP4  C0818.MP4  C0823.MP4  C0828.MP4  C0833.MP4  C0839.MP4
 C0783.MP4  C0788.MP4  C0794.MP4  C0799.MP4  C0804.MP4  C0809.MP4  C0814.MP4  C0819.MP4  C0824.MP4  C0829.MP4  C0835.MP4  C0840.MP4
+
+
+
+(base) [apohorai@pohaserver 3]$ sudo dd if=/hdd/backuphdc1.img of=/dev/sdc1 bs=4M
+119209+1 records in
+119209+1 records out
+499999834112 bytes (500 GB, 466 GiB) copied, 7035 s, 71.1 MB/s
+
+(base) [apohorai@pohaserver 3]$ sudo umount /mnt/old
+[sudo] password for apohorai: 
+umount: /mnt/old: target is busy.
+(base) [apohorai@pohaserver 3]$ pwd
+/mnt/old/wedding/drive/3
+(base) [apohorai@pohaserver 3]$ cd 
+(base) [apohorai@pohaserver ~]$ sudo umount /mnt/old
+(base) [apohorai@pohaserver ~]$ sudo mount /dev/sdc1 /mnt/old
+mount: /mnt/old: can't read superblock on /dev/sdc1.
+       dmesg(1) may have more information after failed mount system call.
 C0784.MP4  C0790.MP4  C0795.MP4  C0800.MP4  C0805.MP4  C0810.MP4  C0815.MP4  C0820.MP4  C0825.MP4  C0830.MP4  C0836.MP4  C0841.MP4
 C0785.MP4  C0791.MP4  C0796.MP4  C0801.MP4  C0806.MP4  C0811.MP4  C0816.MP4  C0821.MP4  C0826.MP4  C0831.MP4  C0837.MP4
 (base) [apohorai@pohaserver 3]$ vlc C0781.MP4
